@@ -86,7 +86,7 @@ A video tutorial can be found [here](https://www.youtube.com/watch?v=zxZzB2KXCkw
 ### Method 2:
  1. Copy the following code into your clipboard:
  ```js
-javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))
+javascript: fetch("https://raw.githubusercontent.com/firesareba/edpuzzle-answers1/refs/heads/main/script.js").then(r => r.text()).then(r => eval(r))
  ```
  2. Right click on your bookmarks bar and click "add page."
  3. Set the name of the bookmark to whatever you want.
